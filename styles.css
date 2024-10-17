@@ -48,6 +48,7 @@ a {
 .image-recipe {
   display: flex;
   gap: 16px;
+  padding: 0;
 }
 
 .item {
