@@ -7,7 +7,7 @@ Live Demo: <a href="https://ariferreira/odin-recipes/" target="_blank" noreferre
 Screenshot from Odin Recipes - Desktop
 <br/>
 <br/>
-<video height="400" controls autoplay>
+<video height="400" controls>
  <source src="./images/mobile.mp4" type="video/mp4">
 </video>
 <br/>
