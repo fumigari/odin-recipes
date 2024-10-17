@@ -7,16 +7,14 @@ Live Demo: <a href="https://ariferreira/odin-recipes/" target="_blank" noreferre
 Screenshot from Odin Recipes - Desktop
 <br/>
 <br/>
-<video height="400" controls>
- <source src="./images/mobile.mp4" type="video/mp4">
-</video>
+<img height="400" alt="Screenshot from Odin Recipes - Mobile" src="./images/mobile.gif">
 <br/>
 Video from Odin Recipes - Mobile
 </div>
 
 ## Overview
 
-This assignment <a href="https://www.theodinproject.com/lessons/foundations-recipes" target="_blank" noreferrer>Project: Recipes</a> was set as part of the<a href="https://www.theodinproject.com/" target="_blank" noreferrer>> The Odin Project</a> curriculum. This is a very basic website with 3 recipe pages.
+This assignment <a href="https://www.theodinproject.com/lessons/foundations-recipes" target="_blank" noreferrer>Project: Recipes</a> was set as part of the<a href="https://www.theodinproject.com/" target="_blank" noreferrer> The Odin Project</a> curriculum. This is a very basic website with 3 recipe pages.
 
 ## Considerations
 
