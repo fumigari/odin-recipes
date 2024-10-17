@@ -1,11 +1,52 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<title></title>
+	<meta name="author" content="Ari Ferreira, Fumigari">
+	<meta name="description" property='og:description'
+		content="Recipes Website from The Odin Project">
+	<meta name="title" property="og:title" content='Odin Recipes' />
+	<meta name="image" property="og:image" content="">
+	<meta property='og:url' content='//https://ariferreira.com/odin-recipes/' />
+
+	<title>Odin Recipes</title>
+	<link rel="Cookbook Icon" href="favicon.ico" type="image/x-icon">
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link
+		href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@600&family=Poppins:wght@300;400&display=swap"
+		rel="stylesheet">
+	<link rel="stylesheet" href="./styles.css">
 </head>
+
 <body>
-	<h1>Odin Recipes</h1>
+	<main>
+		<h1>Odin Recipes</h1>
+		<ul style="list-style-type:none;" class="image-recipe">
+			<li class="item">
+				<a href="recipes/tonkotsu-ramen.html">
+					<img src="./images/tonkotsuramen.jpg" alt="Tonkotsu ramen" height="400">
+				</a>
+				<p>Tonkotsu Ramen</p>
+			</li>
+			<li class="item">
+				<a href="recipes/tom-kha-goong.html">
+					<img src="./images/tomkhagoong.jpg" alt="Tom Kha Goong" height="400"></a>
+				<p>Tom Kha Goong</p>
+			</li>
+			<li class="item">
+				<a href="recipes/pork-dumplings.html"><img src="./images/porkdumplings.jpg" alt="Pork Dumplings"
+						height="400"></a>
+				<p>Pork Dumplings</p>
+			</li>
+		</ul>
+		<p class="about">Assignment from
+			<a href="https://www.theodinproject.com/about" target="_blank" noreferrer>The Odin Project</a>
+			| Ari Ferreira &copy;
+		</p>
+	</main>
 </body>
+
 </html>
